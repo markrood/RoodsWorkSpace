@@ -6,6 +6,10 @@
 		{
 			"name": "Esp32_Template",
 			"path": "Esp32_Template"
+		},
+		{
+			"name": "Esp32_Scheduler_Template",
+			"path": "Esp32_Scheduler_Template"
 		}
 	],
 	"settings": {}
