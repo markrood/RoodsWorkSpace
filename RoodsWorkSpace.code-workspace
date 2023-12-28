@@ -10,6 +10,9 @@
 		{
 			"name": "Esp32_Scheduler_Template",
 			"path": "Esp32_Scheduler_Template"
+		},
+		{
+			"path": "Esp32_AToAwc"
 		}
 	],
 	"settings": {}
